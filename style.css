@@ -34,18 +34,18 @@
 
     .about {
     
-    font-family: 'Nanum Gothic Coding', monospace;
-    font-weight: 100;
-    background-color: white;
-    border-color: white;
-    border-style: solid;
+        font-family: 'Nanum Gothic Coding', monospace;
+        font-weight: 100;
+        background-color: white;
+        border-color: white;
+        border-style: solid;
     
 
-    position: fixed;
-    top: 200px;
-    left: 65px;
+        position: fixed;
+        top: 200px;
+        left: 65px;
     
-    }
+        }
 
     .portfolio {
     
@@ -62,32 +62,61 @@
         
         }
 
-        .essay {
+    .essay {
     
-            font-family: 'Nanum Gothic Coding', monospace;
-            font-weight: 100;
-            background-color: white;
-            border-color: white;
-            border-style: solid;
+        font-family: 'Nanum Gothic Coding', monospace;
+        font-weight: 100;
+        background-color: white;
+        border-color: white;
+        border-style: solid;
             
         
-            position: fixed;
-            top: 300px;
-            left: 65px;
+        position: fixed;
+        top: 300px;
+        left: 65px;
             
-            }
+        }
 
-            .devBlogs {
+    .devBlogs {
     
-                font-family: 'Nanum Gothic Coding', monospace;
-                font-weight: 100;
-                background-color: white;
-                border-color: white;
-                border-style: solid;
+        font-family: 'Nanum Gothic Coding', monospace;
+        font-weight: 100;
+        background-color: white;
+        border-color: white;
+        border-style: solid;
                 
             
-                position: fixed;
-                top: 350px;
-                left: 65px;
+        position: fixed;
+        top: 350px;
+        left: 65px;
                 
-                }
+        }
+
+.box1 {
+
+    position: relative;
+    top: 150px;
+    left: 450px;
+
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+
+}
+
+.box2 {
+
+    position: relative;
+    top: 600px;
+    left: -0.5px;
+
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+
+}
+
+
+
+
+            
