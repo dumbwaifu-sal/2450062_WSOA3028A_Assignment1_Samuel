@@ -1,0 +1,93 @@
+.homePage {
+
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 25px;
+
+    width: 75px;
+    height: 75px;
+
+    background-color:white!important;
+    border-color:black!important;
+
+    border-radius: 100px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+
+    position: fixed;
+    top: 55px;
+    left: 55px;
+
+    }
+
+    h1 {
+
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-weight: 100;
+    font-size: 15px;
+    
+    position: fixed;
+    left: 150px;
+    top: 75px;
+
+    }
+
+    .about {
+    
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-weight: 100;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+    
+
+    position: fixed;
+    top: 200px;
+    left: 65px;
+    
+    }
+
+    .portfolio {
+    
+        font-family: 'Nanum Gothic Coding', monospace;
+        font-weight: 100;
+        background-color: white;
+        border-color: white;
+        border-style: solid;
+        
+    
+        position: fixed;
+        top: 250px;
+        left: 65px;
+        
+        }
+
+        .essay {
+    
+            font-family: 'Nanum Gothic Coding', monospace;
+            font-weight: 100;
+            background-color: white;
+            border-color: white;
+            border-style: solid;
+            
+        
+            position: fixed;
+            top: 300px;
+            left: 65px;
+            
+            }
+
+            .devBlogs {
+    
+                font-family: 'Nanum Gothic Coding', monospace;
+                font-weight: 100;
+                background-color: white;
+                border-color: white;
+                border-style: solid;
+                
+            
+                position: fixed;
+                top: 350px;
+                left: 65px;
+                
+                }
