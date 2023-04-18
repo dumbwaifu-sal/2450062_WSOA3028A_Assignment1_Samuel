@@ -157,15 +157,45 @@
 .imageNames{
 
     font-family: 'Nanum Gothic Coding', monospace;
+    
+    
+    width: fit-content;
+    
 }
 
 .name1{
-
     position: relative;
+    /*background-color: aqua;*/
 
-    left: 50%;
-    background-color: aqua;
-    
+    left: 1000px;
+    width: fit-content;
+    bottom: 1650px;
+   
+}
 
- 
+.name2{
+    position: relative;
+    /*background-color: aqua;*/
+
+    left: 1000px;
+    width: fit-content;
+    bottom: 1150px;
+}
+
+.name3{
+    position: relative;
+    /*background-color: aqua;*/
+
+    left: 1000px;
+    width: fit-content;
+    bottom: 625px;
+}
+
+.name4{
+    position: relative;
+    /*background-color: aqua;*/
+
+    left: 1000px;
+    width: fit-content;
+    bottom: 100px;
 }
