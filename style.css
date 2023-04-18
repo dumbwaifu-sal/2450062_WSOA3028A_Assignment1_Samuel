@@ -149,7 +149,7 @@
 
 
     width: 100%;
-    height: 25px;
+    height: 5px;
     border: 0px solid;
     background-color: white;
 }
@@ -169,7 +169,7 @@
 
     left: 1050px;
     width: fit-content;
-    bottom: 2200px;
+    bottom: 2675px;
     font-size: 20px;
    
 }
@@ -180,7 +180,7 @@
 
     left: 1050px;
     width: fit-content;
-    bottom: 1700px;
+    bottom: 2175px;
     font-size: 20px;
 }
 
@@ -190,8 +190,8 @@
 
     left: 1050px;
     width: fit-content;
-    bottom: 1200px;
-    font-size: 25px;
+    bottom: 1700px;
+    font-size: 20px;
 }
 
 .name4{
@@ -200,15 +200,42 @@
 
     left: 1050px;
     width: fit-content;
-    bottom: 700px;
-    font-size: 25px;
+    bottom: 1175px;
+    font-size: 20px;
 }
 
 .maisha{
     position: relative;
-    bottom: 1865px;
-    left: 450px;
+    bottom: 1859px;
+    left: 451px;
 
-    width: 505px;
-    height: 510px;
+    width: 500px;
+    height: 500px;
+}
+
+.sima{
+    position: relative;
+    bottom: 1310px;
+    left: -50px;
+
+    width: 495px;
+    height: 495px;
+}
+
+.sal{
+    position: relative;
+    bottom: 1260px;
+    left: 451px;
+
+    width: 500px;
+    height: 500px;
+}
+
+.iso{
+    position: relative;
+    bottom: 708.5px;
+    left: -53px;
+
+    width: 500px;
+    height: 500px;
 }
