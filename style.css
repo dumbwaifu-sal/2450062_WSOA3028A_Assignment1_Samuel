@@ -167,9 +167,10 @@
     position: relative;
     /*background-color: aqua;*/
 
-    left: 1000px;
+    left: 1050px;
     width: fit-content;
-    bottom: 1650px;
+    bottom: 2200px;
+    font-size: 20px;
    
 }
 
@@ -177,25 +178,37 @@
     position: relative;
     /*background-color: aqua;*/
 
-    left: 1000px;
+    left: 1050px;
     width: fit-content;
-    bottom: 1150px;
+    bottom: 1700px;
+    font-size: 20px;
 }
 
 .name3{
     position: relative;
     /*background-color: aqua;*/
 
-    left: 1000px;
+    left: 1050px;
     width: fit-content;
-    bottom: 625px;
+    bottom: 1200px;
+    font-size: 25px;
 }
 
 .name4{
     position: relative;
     /*background-color: aqua;*/
 
-    left: 1000px;
+    left: 1050px;
     width: fit-content;
-    bottom: 100px;
+    bottom: 700px;
+    font-size: 25px;
+}
+
+.maisha{
+    position: relative;
+    bottom: 1865px;
+    left: 450px;
+
+    width: 505px;
+    height: 510px;
 }
