@@ -239,3 +239,40 @@
     width: 500px;
     height: 500px;
 }
+
+.IxD{
+    position: relative;
+    background-color: rgb(216, 216, 216);
+
+    width:fit-content;
+    font-size: medium;
+    font-weight: lighter;
+    left: 500px;
+}
+
+.wire{
+    position: relative;
+    background-color: rgb(216, 216, 216);
+
+    width:fit-content;
+    font-size: medium;
+    font-weight: lighter;
+    left: 500px;
+    top: 5px;
+}
+
+.goals{
+    word-wrap: break-word;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 95%;
+    font-weight: normal;
+
+    width: 800px;
+    height: 1000px;
+    position: relative;
+    
+  
+    left: 525px;
+    top: 100px;
+    line-height: 1.8;
+}
