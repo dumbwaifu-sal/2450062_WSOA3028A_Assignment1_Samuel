@@ -258,7 +258,19 @@
     font-size: medium;
     font-weight: lighter;
     left: 500px;
+    top : 37.5%;
+}
+
+.Imple{
+    position: relative;
+    background-color: rgb(216, 216, 216);
+
+    width:fit-content;
+    font-size: medium;
+    font-weight: lighter;
+    left: 500px;
     top: 5px;
+    margin-top: 27.5%;
 }
 
 .goals{
