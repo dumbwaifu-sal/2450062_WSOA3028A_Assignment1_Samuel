@@ -36,8 +36,8 @@
         /*background-color: rgb(216, 216, 216);*/
 
         width:fit-content;
-        font-size: 100px;
-        font-weight: lighter;
+        font-size: 70px;
+        font-weight: normal;
         left: -100px;
     }
 
@@ -295,7 +295,7 @@
     margin-top: 27.5%;
 }
 
-.paragraph{
+/*.paragraph{
     font-family: 'Nanum Gothic Coding', monospace;
     word-wrap: break-word;
     font-size: 95%;
@@ -308,7 +308,7 @@
     left: 525px;
     top: 100px;;
     line-height:  2em;
-}
+}*/
 
 .paragraphs{
     word-wrap: break-word;
@@ -322,7 +322,7 @@
     
   
     left: 525px;
-    top: 100px;;
+    top: 100px;
     line-height:  2em;
 }
 
