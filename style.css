@@ -32,6 +32,17 @@
 
     }
 
+    h2{
+    font-family: 'Nanum Gothic Coding', monospace;
+    position: relative;
+    /*background-color: rgb(216, 216, 216);*/
+
+    width:fit-content;
+    font-size: 50px;
+    font-weight: lighter;
+    /*left: 500px;*/
+    }
+
     .about {
     
         font-family: 'Nanum Gothic Coding', monospace;
@@ -271,6 +282,21 @@
     left: 500px;
     top: 5px;
     margin-top: 27.5%;
+}
+
+.paragraph{
+    font-family: 'Nanum Gothic Coding', monospace;
+    word-wrap: break-word;
+    font-size: 95%;
+    font-weight: normal;
+
+    width: 800px;
+    height: 1000px;
+    position: relative;
+    
+    left: 525px;
+    top: 100px;;
+    line-height:  2em;
 }
 
 .paragraphs{
