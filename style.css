@@ -64,12 +64,12 @@
     }
 
     .dropDown a{
-        color: black;
+        color: rgb(124, 123, 123);
         text-decoration: none;
     }
 
     .dropDown a:hover{
-        color: black;
+        color: rgb(124, 123, 123);
     }
 
     .menu:hover .dropDown{
@@ -108,68 +108,21 @@
         left: -25px;
         }
 
-    
-
-    /*.about {
-    
-        font-family: 'Nanum Gothic Coding', monospace;
-        font-weight: 100;
-        background-color: white;
-        border-color: white;
-        border-style: solid;
-    
-
-        position: fixed;
-        top: 190px;
-        left: 60px;
-    
-        }
-
-    .portfolio {
-    
-        font-family: 'Nanum Gothic Coding', monospace;
-        font-weight: 100;
-        background-color: white;
-        border-color: white;
-        border-style: solid;
+    .paragraphs{
+            word-wrap: break-word;
+            font-family: 'Nanum Gothic Coding', monospace;
+            font-size: 95%;
+            font-weight: normal;
         
-    
-        position: fixed;
-        top: 240px;
-        left: 60px;
-        
+            width: 800px;
+            height: 1000px;
+            position: relative;
+            
+          
+            left: 525px;
+            top: 100px;
+            line-height:  2em;
         }
-
-    .essay {
-    
-        font-family: 'Nanum Gothic Coding', monospace;
-        font-weight: 100;
-        background-color: white;
-        border-color: white;
-        border-style: solid;
-            
-        
-        position: fixed;
-        top: 290px;
-        left: 60px;
-            
-        }
-
-    .devBlogs {
-    
-        font-family: 'Nanum Gothic Coding', monospace;
-        font-weight: 100;
-        background-color: white;
-        border-color: white;
-        border-style: solid;
-                
-            
-        position: fixed;
-        top: 340px;
-        left: 60px;
-                
-        }*/
-
 
 .box1 {
 
@@ -318,19 +271,5 @@
     height: 500px;
 }
 
-.paragraphs{
-    word-wrap: break-word;
-    font-family: 'Nanum Gothic Coding', monospace;
-    font-size: 95%;
-    font-weight: normal;
 
-    width: 800px;
-    height: 1000px;
-    position: relative;
-    
-  
-    left: 525px;
-    top: 100px;
-    line-height:  2em;
-}
 
